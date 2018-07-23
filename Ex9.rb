@@ -1,5 +1,5 @@
 first ,second ,third = ARGV
 
 puts "Your first variable is: #{first}"
-puts "youe second varible : #{second}"
-puts "uoyrb third variabe: #{third}"
+puts "your second varible is : #{second}"
+puts "your third variabe is : #{third}"
